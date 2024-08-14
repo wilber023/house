@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+
+import {useState} from 'react';
 import '../components/atomic/input.css';
 import InputMain from '../components/atomic/InputnMain';
 import Panel from '../Controller/Home/ControllerPanel';
